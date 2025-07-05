@@ -1,18 +1,18 @@
-### 👋 Hello, I'm Syed Washfi Ahmad
-💼 **Lead Software Engineer** @ [bKash Limited](https://www.bkash.com/)
+### Hello, I'm Syed Washfi Ahmad
+**Lead Software Engineer** @ [bKash Limited](https://www.bkash.com/)
 
-🔗 **LinkedIn:** [syed-washfi-ahmad](https://www.linkedin.com/in/syed-washfi-ahmad)
+**LinkedIn:** [syed-washfi-ahmad](https://www.linkedin.com/in/syed-washfi-ahmad)
 
 ---
 
-#### 📄 About Me
+#### About Me
 
 **Android Developer** with **8+ years** of experience in the fintech industry. Adept at bringing expertise in software systems design, coding, testing, and maintenance. 
 Proficient in Java, Kotlin, and Dart, creating impactful mobile applications. Notable achievements include leading a project with a user base of **30 million**.
 
 ---
 
-#### 🔧 Technical Skills
+#### Technical Skills
 
 - **Languages:** [Kotlin](https://kotlinlang.org/), [Java](https://www.java.com/)
 - **Frameworks/Platforms:** [Android](https://developer.android.com/), [Kotlin Multiplatform](https://kotlinlang.org/docs/multiplatform.html)
